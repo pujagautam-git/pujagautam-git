@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 # 👋 Hi, I'm Puja Gautam
 
-🚀 **Frontend Website Developer**  **Full Stack Developer**
+🚀 **Frontend Website Developer** , **Full Stack Developer**
 I design and build modern, responsive web applications with a strong focus on **UI/UX, performance, Logic and clean code**.
 
 ---
